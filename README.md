@@ -311,9 +311,9 @@ Bạn có thể tải xuống phiên bản PDF và Epub của kho lưu trữ nà
 |275| [](#)|
 |276| [](#)|
 
-1. ### What is Angular Framework?
+1. ###Angular Framework là gì?
 
-    Angular is a **TypeScript-based open-source** front-end platform that makes it easy to build applications with in web/mobile/desktop. The major features of this framework such as declarative templates, dependency injection, end to end tooling, and many more other features are used to ease the development.
+    Angular là 1 **mã nguồn mở  dựa trên TypeScript** front-end platform giúp dễ dàng xây dựng các ứng dụng với web/mobile/desktop. Các tính năng chính của framework như declarative templates, dependency injection, end to end tooling, và nhiều tính năng khác được sử dụng để dễ dàng phát triển.
 
   **[⬆ Back to Top](#table-of-contents)**
 
