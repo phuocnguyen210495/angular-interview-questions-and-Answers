@@ -1,6 +1,6 @@
-# Angular Interview Questions & Answers
+# Câu hỏi và câu trả lời phỏng vấn angular
 
-> Click :star:if you like the project. Pull Request are highly appreciated. Follow me [@SudheerJonna](https://twitter.com/SudheerJonna) for technical updates.
+> Click :star: nếu bạn thích dự án.
 
 ---
 <div align="center">
@@ -28,31 +28,31 @@
 
 ## Downloading PDF/Epub formats
 
-You can download the PDF and Epub version of this repository from the latest run on the [actions tab](https://github.com/sudheerj/angular-interview-questions/actions).
+Bạn có thể tải xuống phiên bản PDF và Epub của kho lưu trữ này từ lần chạy mới nhất trên [actions tab](https://github.com/sudheerj/angular-interview-questions/actions).
 
-### Table of Contents
+### Mục Lục
 
-| No. | Questions |
+| STT | Câu hỏi |
 |---- | ---------
-|1 | [What is Angular Framework?](#what-is-angular-framework)|
-|2 | [What is the difference between AngularJS and Angular?](#what-is-the-difference-between-angularjs-and-angular)|
-|3 | [What is TypeScript?](#what-is-typescript)|
-|4 | [Write a pictorial diagram of Angular architecture?](#write-a-pictorial-diagram-of-angular-architecture)|
-|5 | [What are the key components of Angular?](#what-are-the-key-components-of-angular)|
-|6 | [What are directives?](#what-are-directives)|
-|7 | [What are components?](#what-are-components)|
-|8 | [What are the differences between Component and Directive?](#what-are-the-differences-between-component-and-directive)|
-|9 | [What is a template?](#what-is-a-template)|
-|10| [What is a module?](#what-is-a-module)|
-|11| [What are lifecycle hooks available?](#what-are-lifecycle-hooks-available)|
-|12| [What is a data binding?](#what-is-a-data-binding)|
-|13| [What is metadata?](#what-is-metadata)|
-|14| [What is Angular CLI?](#what-is-angular-cli)|
-|15| [What is the difference between constructor and ngOnInit?](#what-is-the-difference-between-constructor-and-ngoninit)|
-|16| [What is a service](#what-is-a-service)|
-|17| [What is dependency injection in Angular?](#what-is-dependency-injection-in-angular)|
-|18| [How is Dependency Hierarchy formed?](#how-is-dependency-hierarchy-formed)|
-|19| [What is the purpose of async pipe?](#what-is-the-purpose-of-async-pipe)|
+|1 | [Angular Framework là gì?](#what-is-angular-framework)|
+|2 | [Sự khác nhau giữa AngularJS và Angular?](#what-is-the-difference-between-angularjs-and-angular)|
+|3 | [TypeScript là gì?](#what-is-typescript)|
+|4 | [Viết sơ đồ kiến trúc của Angular?](#write-a-pictorial-diagram-of-angular-architecture)|
+|5 | [Các thành phần chính của Angular?](#what-are-the-key-components-of-angular)|
+|6 | [directives là gi?](#what-are-directives)|
+|7 | [components là gì?](#what-are-components)|
+|8 | [Sự khác nhau giữa Component và Directive?](#what-are-the-differences-between-component-and-directive)|
+|9 | [template là gì?](#what-is-a-template)|
+|10| [Một module là gì?](#what-is-a-module)|
+|11| [Có những lifecycle hooks nào?](#what-are-lifecycle-hooks-available)|
+|12| [data binding là gì?](#what-is-a-data-binding)|
+|13| [metadata là gì?](#what-is-metadata)|
+|14| [Angular CLI là gì?](#what-is-angular-cli)|
+|15| [Sự khác nhau giữa constructor và ngOnInit?](#what-is-the-difference-between-constructor-and-ngoninit)|
+|16| [service là gì](#what-is-a-service)|
+|17| [dependency injection trong Angular là gì?](#what-is-dependency-injection-in-angular)|
+|18| [Dependency Hierarchy hình thành như thê nào?](#how-is-dependency-hierarchy-formed)|
+|19| [Mục đích của async pipe là gì?](#what-is-the-purpose-of-async-pipe)|
 |20| [What is the option to choose between inline and external template file?](#what-is-the-option-to-choose-between-inline-and-external-template-file)|
 |21| [What is the purpose of *ngFor directive?](#what-is-the-purpose-of-ngfor-directive)|
 |22| [What is the purpose of ngIf directive?](#what-is-the-purpose-of-ngif-directive)|
